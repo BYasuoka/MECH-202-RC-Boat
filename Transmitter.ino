@@ -1,3 +1,7 @@
+//Brenton Yasuoka
+//Updated December 5, 2023
+// This code is a copy of the transmitter code used on an arduino that was hooked up to two joysticks, and a nRF24L01 Module 
+
 // Include Libraries
 #include <SPI.h>
 #include <nRF24L01.h>
