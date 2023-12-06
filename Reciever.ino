@@ -1,6 +1,6 @@
 //Brenton Yasuoka
 //Updated December 5, 2023
-// This code is a copy of the transmitter code used on an arduino that was hooked up to two Electronic Speed Controllers, and a nRF24L01 Module 
+// This code is a copy of the receiver code used on an arduino that was hooked up to two Electronic Speed Controllers, and a nRF24L01 Module 
 // an Electronic Speed Controller is more very easily used when called a Servo object. 
 
 // Include Libraries
