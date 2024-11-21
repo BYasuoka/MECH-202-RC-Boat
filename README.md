@@ -10,3 +10,5 @@ The purpose of this project was for at the end of the semester there would be a 
  - If one barbie is maimed
  - The opposing boat's international load line is below water for more than 30 seconds
  - The opposing boat is stuck/held against the wall of the pool for more than 30 seconds
+
+Link to Photos of the Boat: https://drive.google.com/drive/folders/1XiHw9VOemOARRVFpu84bd4c4WNb_3OUG?usp=sharing 
